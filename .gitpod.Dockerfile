@@ -13,4 +13,4 @@ RUN sudo apt-get update && \
     sudo apt-get install -y bc && \
     sudo apt-get install -y kafkacat 
 
-RUN echo -e "\nalias calc='bc -l'\n" >> /home/gitpod/.bashrc
+RUN echo "\nalias calc='bc -l'\n" >> /home/gitpod/.bashrc
