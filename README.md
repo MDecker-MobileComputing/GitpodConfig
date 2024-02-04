@@ -10,3 +10,5 @@ https://gitpod.io/#https://github.com/MDecker-MobileComputing/GitpodConfig
 <br>
 
 Offizielle Doku, um eigenen Gitpod-Container mit Java zu erstellen: https://www.gitpod.io/docs/introduction/languages/java
+
+<br>
