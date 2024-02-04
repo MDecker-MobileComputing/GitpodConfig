@@ -9,6 +9,9 @@ RUN bash -c ". /home/gitpod/.sdkman/bin/sdkman-init.sh && \
     sdk install java 21.0.2-amzn  && \
     sdk default java 21.0.2-amzn "
 
+# Programme installieren:
+#   bc: Berkley Calculator
+#   kafkacat: Kafka-CLI 
 RUN sudo apt-get update && \
     sudo apt-get install -y bc && \
     sudo apt-get install -y kafkacat 
