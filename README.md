@@ -16,3 +16,8 @@ Offizielle Doku, um eigenen Gitpod-Container mit Java zu erstellen: https://www.
 Änderungen in der Konfiguration werden erst für neue Workspace wirksam.
 
 <br>
+
+Die Datei [.gitpod.yml](.gitpod.yml) referenziert das Dockerfile mit den eigentlichen Konfiguration.
+Weitere Konfigurationsmöglichkeiten in der `.gidpo.yml`: https://www.gitpod.io/docs/references/gitpod-yml#.gitpod.yml
+
+<br>
