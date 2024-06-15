@@ -21,3 +21,7 @@ Die Datei [.gitpod.yml](.gitpod.yml) referenziert das Dockerfile mit den eigentl
 Weitere Konfigurationsmöglichkeiten in der `.gidpo.yml`: https://www.gitpod.io/docs/references/gitpod-yml#.gitpod.yml
 
 <br>
+
+Eigenes Beispiel für einen eigenen Task: siehe [hier](https://github.com/MDecker-MobileComputing/ssh2rpi/blob/8c69b88c6ec82df80343aa81a35ca3223d4b5058/.gitpod.yml#L4-L12)
+
+<br>
