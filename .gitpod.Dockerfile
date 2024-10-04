@@ -7,8 +7,8 @@ USER gitpod
 # Abfrage verfügbaren Java-Versionen: sdkman list java
 # "Corretto" ist JDK von Amazon
 RUN bash -c ". /home/gitpod/.sdkman/bin/sdkman-init.sh && \
-    sdk install java 22.0.2-amzn  && \
-    sdk default java 22.0.2-amzn "
+    sdk install java 23-amzn  && \
+    sdk default java 23-amzn "
 
 # Programme installieren:
 #   bc: Berkley Calculator
