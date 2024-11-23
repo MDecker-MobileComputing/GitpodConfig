@@ -1,4 +1,4 @@
-# Base-Image
+# Basis-Image
 FROM gitpod/workspace-full
 
 # Nutzer, von dem die folgenden Befehle ausgeführt werden.
